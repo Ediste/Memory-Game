@@ -2,7 +2,12 @@
 
 This project is part of the Udacity Front-End Web Developer Nanodegree
 
-# Game Rules
+# Instructions
+
+## How to start
+Simply open the following url: https://ediste.github.io/Memory-Game/ OR clone the repo and open the index.html
+
+## Game Rules
 - There are 16 cards to flip over
 - When the game starts all cards are turned face down
 - Then flip over two cards by clicking on them
@@ -11,9 +16,8 @@ This project is part of the Udacity Front-End Web Developer Nanodegree
 - Remember what was on each card and where it was
 - You can only flip over two cards at a time
 - The goal is to find all 8 pairs
- 
 
-## Technolgies
+# Technolgies
 - HTML
 - CSS
 - JavaScript
